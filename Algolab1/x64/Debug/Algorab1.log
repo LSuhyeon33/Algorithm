@@ -1,0 +1,16 @@
+﻿  BubbleSort.cpp
+  CombSort.cpp
+C:\Users\gus98\Desktop\대학\3학년 2학기\알고리즘\Algorab1\Algorab1\선택정렬\CombSort.cpp(40,23): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  선택정렬.cpp
+  ShellSort.cpp
+  삽입정렬.cpp
+  코드를 생성하고 있습니다...
+CombSort.obj : error LNK2005: "void __cdecl swap(int *,int *)" (?swap@@YAXPEAH0@Z)이(가) BubbleSort.obj에 이미 정의되어 있습니다.
+CombSort.obj : error LNK2005: main이(가) BubbleSort.obj에 이미 정의되어 있습니다.
+선택정렬.obj : error LNK2005: "void __cdecl swap(int *,int *)" (?swap@@YAXPEAH0@Z)이(가) BubbleSort.obj에 이미 정의되어 있습니다.
+선택정렬.obj : error LNK2005: main이(가) BubbleSort.obj에 이미 정의되어 있습니다.
+ShellSort.obj : error LNK2005: "void __cdecl swap(int *,int *)" (?swap@@YAXPEAH0@Z)이(가) BubbleSort.obj에 이미 정의되어 있습니다.
+ShellSort.obj : error LNK2005: main이(가) BubbleSort.obj에 이미 정의되어 있습니다.
+삽입정렬.obj : error LNK2005: "void __cdecl swap(int *,int *)" (?swap@@YAXPEAH0@Z)이(가) BubbleSort.obj에 이미 정의되어 있습니다.
+삽입정렬.obj : error LNK2005: main이(가) BubbleSort.obj에 이미 정의되어 있습니다.
+C:\Users\gus98\Desktop\대학\3학년 2학기\알고리즘\Algorab\Algorab1\x64\Debug\Algorab1.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

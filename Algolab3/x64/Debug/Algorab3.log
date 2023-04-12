@@ -1,0 +1,3 @@
+﻿  Binary Tree.cpp
+C:\Users\gus98\Desktop\대학\3학년 2학기\알고리즘\Algorab\Algorab3\Binary Tree.cpp(184): warning C4715: 'sumOfWeight': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Algorab3.vcxproj -> C:\Users\gus98\Desktop\대학\3학년 2학기\알고리즘\Algorab\Algorab3\x64\Debug\Algorab3.exe
